@@ -1,1 +1,3 @@
 Explain what the "upstream" remote is usually used for, in your own words
+
+Storing code online - code can be shared with others and others can contribute to this code. The upstream remote is often a shared team repository of a dev team.
