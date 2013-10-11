@@ -1,1 +1,3 @@
 Explain what a branch is, in your own words
+
+A branch is a pointer to a commit or series of commits
